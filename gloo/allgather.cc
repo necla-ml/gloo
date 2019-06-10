@@ -9,6 +9,7 @@
 #include "gloo/allgather.h"
 
 #include <cstring>
+#include <array>
 
 #include "gloo/common/logging.h"
 #include "gloo/types.h"

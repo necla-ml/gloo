@@ -1,6 +1,8 @@
 #pragma once
 
 #include <iostream>
+#include <array>
+#include <string>
 
 #ifdef __CUDA_ARCH__
 #include <cuda.h>

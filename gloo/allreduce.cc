@@ -10,6 +10,7 @@
 
 #include <algorithm>
 #include <cstring>
+#include <array>
 
 #include "gloo/common/logging.h"
 #include "gloo/math.h"
